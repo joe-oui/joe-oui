@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joe-oui
 - 👀 I’m interested in 小马
-- 🌱 I’m currently learning r5rs
+- 🌱 I’m currently learning java
 - 💞️ I love 小马
 - 📫 How to reach me: via 小马
